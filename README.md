@@ -1,2 +1,2 @@
-# Netflix-Landing-Page-Clone
-HTML5 &amp; CSS3
+# Netflix landing page clone
+Fun project from Traversy Media to sharp your CSS skills.
