@@ -1,2 +1,2 @@
 # Netflix landing page clone
-Fun project from Traversy Media. HTML CSS & JS
+From Traversy Media. HTML, CSS & JS
