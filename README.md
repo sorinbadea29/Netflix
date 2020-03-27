@@ -1,2 +1,3 @@
-# Netflix landing page clone
-From Traversy Media. HTML, CSS & JS
+# Netflix
+Netflix landing page clone. 
+HTML, CSS and JS
