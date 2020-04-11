@@ -1,3 +1,2 @@
 # Netflix
-Netflix landing page clone. 
-HTML, CSS, JS.
+Netflix landing page clone using HTML, CSS, JS.
